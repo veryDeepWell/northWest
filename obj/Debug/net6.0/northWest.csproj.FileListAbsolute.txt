@@ -1,0 +1,15 @@
+F:\_pro\_new\northWest\bin\Debug\net6.0\northWest.exe
+F:\_pro\_new\northWest\bin\Debug\net6.0\northWest.deps.json
+F:\_pro\_new\northWest\bin\Debug\net6.0\northWest.runtimeconfig.json
+F:\_pro\_new\northWest\bin\Debug\net6.0\northWest.dll
+F:\_pro\_new\northWest\bin\Debug\net6.0\northWest.pdb
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.csproj.AssemblyReference.cache
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.GeneratedMSBuildEditorConfig.editorconfig
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.AssemblyInfoInputs.cache
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.AssemblyInfo.cs
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.csproj.CoreCompileInputs.cache
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.dll
+F:\_pro\_new\northWest\obj\Debug\net6.0\refint\northWest.dll
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.pdb
+F:\_pro\_new\northWest\obj\Debug\net6.0\northWest.genruntimeconfig.cache
+F:\_pro\_new\northWest\obj\Debug\net6.0\ref\northWest.dll
